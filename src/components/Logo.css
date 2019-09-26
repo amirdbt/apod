@@ -1,0 +1,20 @@
+.Tilt {
+    background: rgb(39, 68, 191);
+    background: radial-gradient(circle, rgba(39, 68, 191, 0.33657212885154064) 0%, rgba(34, 15, 212, 1) 100%);
+}
+
+
+
+.logo {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 66, 121, 1) 44%, rgba(0, 212, 255, 1) 100%);
+}
+
+.particles {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+}
